@@ -80,7 +80,6 @@ If you use Lotus King Research data, technology, or findings for published work,
 - Arun Raguraman
 - Mikko Kotila
 - Prasenjit Dey
-- Matti Vartiainen
 
 
 Huge thanks go to everyone else who have contributed, as well as to [Esukhia](https://esukhia.net/) and [Tsadra](https://www.tsadra.org/) for their commitment to making open texts and technology resources available.

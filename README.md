@@ -16,7 +16,7 @@
 </p>
 <hr>
 <p align="center">
-Padma-Tokens consist of tokens for <strong>more than 10,000 volumes</strong> of Buddhadharma text in Tibetan language. 
+Padma-Tokens consist of tokens for <strong>more than 10,000 volumes</strong> making up <strong> over 80,000 </strong> Buddhadharma texts in Tibetan language. 
 </p>
 
 ### :sos: what?
